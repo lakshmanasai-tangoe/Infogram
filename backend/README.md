@@ -1,2 +1,2 @@
 # Infogram
-Instagram clone.
+Instagram clone, with advanced features.
